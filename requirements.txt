@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-openai
+chromadb
+python-dotenv
+openai
+tiktoken
+yfinance
+matplotlib
+pandas
+numpy
