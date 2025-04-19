@@ -2,10 +2,11 @@ streamlit
 langchain
 langchain-community
 langchain-openai
-chromadb
-python-dotenv
 openai
 tiktoken
+faiss-cpu
+python-dotenv
+chromadb
 yfinance
 matplotlib
 pandas
