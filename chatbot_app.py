@@ -4,8 +4,8 @@ load_dotenv()
 import os
 import streamlit as st
 
-# LangChain imports
-# from langchain.vectorstores import Chroma
+
+
 from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
 from langchain_community.chat_models import ChatOpenAI
